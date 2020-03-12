@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: "Xinsong Du"
+description: "Xinsong Du's personal website"
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -9,7 +9,7 @@ username: Xinsong Du
 user_description: I am from Beijing, China. I am currently a third-year Ph.D. student at the Department of Health Outcomes and Biomedical Informatics (HOBI) advised by Dr. <a href="https://hobi.med.ufl.edu/lemas-dominick/">Dominick J. Lemas</a> I earned a bachelor’s degree in electrical engineering from Shandong University (Jinan, China), and a master’s degree in computer engineering from the University of Florida. Prior to enrolling in HOBI’s Ph.D. program, Xinsong was a research assistant in the Electrical and Computer Engineering Department where he helped with medical informatics research projects. My current research interests include computational metabolomics and machine learning health applications. During my spare time, I like to play table tennis. I am also a member of Gainesville Table Tennis Club.
 user_title: Graduate Research Assistant
 email: xinsongdu@ufl.edu
-github_username:  XinsongDu
+github_username: XinsongDu
 
 # Google-analytics
 google-analytics:
